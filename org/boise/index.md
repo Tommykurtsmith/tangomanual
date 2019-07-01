@@ -10,7 +10,7 @@ redirect_from: /v1/missions/index.html
 
 {% include tm/section_title.html section=1 size="2" number=true %}
 
-### [1-A Mirror Game](missions/1-a)
+### [1-A Mirror Game](188.md)
 ### [1-B Shadow Legs](missions/1-b)
 ### [1-C Side-By-Side](missions/1-c)
 ### [1-D First Figure](missions/1-d)
